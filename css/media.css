@@ -1,0 +1,119 @@
+@media(max-width:575px) {
+    .your-class {
+        width: 100%;
+        position: absolute;
+        margin: auto;
+    }
+
+    .card-body {
+        height: 170px;
+    }
+
+    .card-title {
+        font-size: 18px;
+    }
+
+    .card-text {
+        font-size: 13px;
+    }
+
+    .logo {
+        width: 25%;
+
+    }
+}
+
+
+@media(min-width:576px) and (max-width:767px) {
+    .your-class {
+        width: 100%;
+        position: absolute;
+        margin: auto;
+    }
+
+    .card-body {
+        height: 150px;
+    }
+
+    .card-title {
+        font-size: 15px;
+    }
+
+    .logo {
+        width: 25%;
+
+    }
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    .logo {
+        width: 25%;
+
+    }
+
+    .card {
+        height: 100%;
+    }
+
+    .card-body {
+        height: 140px;
+    }
+
+    .card-title {
+        font-size: 18px;
+    }
+
+    .card-text {
+        font-size: 13px;
+    }
+}
+
+
+@media(min-width:992px) and (max-width:1199px) {
+    .logo {
+        width: 25%;
+
+    }
+
+    .card {
+        height: 100%;
+    }
+
+    .card-body {
+        height: 150px;
+    }
+
+    .card-title {
+        font-size: 18px;
+        height: 45px;
+    }
+
+    .card-text {
+        font-size: 15px;
+    }
+}
+
+
+@media(min-width:1200px) and (max-width:1399px) {
+    .logo {
+        width: 25%;
+
+    }
+
+    .card {
+        height: 100%;
+    }
+
+    .card-body {
+        height: 150px;
+    }
+
+    .card-title {
+        font-size: 18px;
+        height: 45px;
+    }
+
+    .card-text {
+        font-size: 15px;
+    }
+}
